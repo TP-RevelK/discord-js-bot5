@@ -16,23 +16,19 @@
     },
     "start": {
       "name": "start",
-      "command": "npm run start",
-      "runAtStart": false
+      "command": "npm run start"
     },
     "format": {
       "name": "format",
-      "command": "npm run format",
-      "runAtStart": false
+      "command": "npm run format"
     },
     "docker:package": {
       "name": "docker:package",
-      "command": "npm run docker:package",
-      "runAtStart": false
+      "command": "npm run docker:package"
     },
     "docker:build": {
       "name": "docker:build",
-      "command": "npm run docker:build",
-      "runAtStart": false
+      "command": "npm run docker:build"
     }
   }
 }
