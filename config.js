@@ -60,7 +60,7 @@ module.exports = {
     LAVALINK_NODES: [
       {
         host: "127.0.0.1",
-        port: 2333,
+        port: 2080,
         password: "youshallnotpass",
         id: "Local Node",
         secure: false,
